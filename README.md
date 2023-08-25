@@ -1,3 +1,4 @@
+![logo](https://github.com/suresh33661/suresh33661/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm SURESH</h1>
 <h3 align="center">Undergraduate.</h3>
 <img aligh="right" alt="data" src="https://media.tenor.com/r3HlwtElg3MAAAAM/justa5things-coding.gif">
