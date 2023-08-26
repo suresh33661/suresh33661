@@ -1,5 +1,5 @@
 
-![logo](https://github.com/suresh33661/suresh33661/blob/main/banner.jpg)
+![logo](https://github.com/suresh33661/suresh33661/blob/main/wallpaper.jpg)
 <h1 align="center">Hi 👋, I'm SURESH</h1>
 <h3 align="center">Undergraduate.</h3>
 <img align="right" alt="data" src="https://bestanimations.com/Computers/funny-computer-animated-gif-53.gif">
