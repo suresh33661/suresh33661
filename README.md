@@ -1,16 +1,14 @@
 
 ![logo](https://github.com/suresh33661/suresh33661/blob/main/banner.jpg)
-<kbd style="background-color: yellow;">
-
 <h1 align="center">Hi 👋, I'm SURESH</h1>
 <h3 align="center">Undergraduate.</h3>
 <img align="right" alt="data" src="https://bestanimations.com/Computers/funny-computer-animated-gif-53.gif">
-# <span style="color: red;">This is a red H1 heading with text content</span>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suresh33661&label=Profile%20views&color=0e75b6&style=flat" alt="suresh33661" /> </p>
 
-< span style="color: orange;">- 🔭 I’m currently working on **Pandas(Open source Project)** </span>
+<span style="color: orange;">- 🔭 I’m currently working on **Pandas(Open source Project)** </span>
+<kbd style="background-color: yellow;">Enter</kbd>
 
 - 🌱 I’m currently learning **Machine Learning and Data Sciences**
 
