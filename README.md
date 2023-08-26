@@ -1,6 +1,7 @@
 
 ![logo](https://github.com/suresh33661/suresh33661/blob/main/banner.jpg)
-<body style="background-color :rgba(112, 123, 133, 0.442)">
+<kbd style="background-color: yellow;">
+
 <h1 align="center">Hi 👋, I'm SURESH</h1>
 <h3 align="center">Undergraduate.</h3>
 <img align="right" alt="data" src="https://bestanimations.com/Computers/funny-computer-animated-gif-53.gif">
@@ -31,7 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suresh33661&show_icons=true&locale=en&layout=compact" alt="suresh33661" /></p>
 
-</body>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suresh33661&show_icons=true&locale=en" alt="suresh33661" /></p>
 
