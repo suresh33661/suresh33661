@@ -7,8 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suresh33661&label=Profile%20views&color=0e75b6&style=flat" alt="suresh33661" /> </p>
 
-<span style="color: orange;">- 🔭 I’m currently working on **Pandas(Open source Project)** </span>
-<kbd style="background-color: yellow;">Enter</kbd>
+- 🔭 I’m currently working on **Pandas(Open source Project)**
 
 - 🌱 I’m currently learning **Machine Learning and Data Sciences**
 
