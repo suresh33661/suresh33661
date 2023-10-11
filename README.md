@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm SURESH</h1>
 <h3 align="center">Undergraduate.</h3>
 <img align="right" alt="data" src="https://media.giphy.com/media/3o7Zen3RCzrnhHnSkU/giphy.gif">
-
+[![An image of @suresh33661's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/suresh33661)](https://holopin.io/@suresh33661)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suresh33661&label=Profile%20views&color=0e75b6&style=flat" alt="suresh33661" /> </p>
 
